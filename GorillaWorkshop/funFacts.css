@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+}
+
+.gorilla {
+    width: 200px;
+    height: 230px;
+    border-style: double;
+    border-width: 20;
+    border-color: brown;
+}
+
+.gorilla2 {
+    height: 200px;
+    width: 250px;
+    border-style: double;
+    border-width: 20;
+    border-color: brown;
+}
+
+body {
+    color: green;
+    font-style: oblique;
+    font-size: larger;
+}

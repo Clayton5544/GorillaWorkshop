@@ -1,0 +1,30 @@
+img {
+    
+    height: 150;
+    width: 300;
+    border-style: ridge;
+    border-width: 20;
+    border-color: peru;
+    padding: 3;
+}
+.gorilla1 {
+    height: 150;
+    width: 250;
+    border-style: ridge;
+    border-color: peru;
+}
+
+
+h1 {
+    color: forestgreen;
+}
+
+body {
+background-color: burlywood;
+color: green;
+}
+
+body {
+    font-style: oblique;
+    font-size: larger;
+}
